@@ -1,0 +1,897 @@
+{
+  "components": {
+    "C1": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -21.317744, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C2": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -32.870494, 
+        11.255565
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C3": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -2.534695, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "D1": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        20.004963, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "D2": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        4.978524, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "D3": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -10.047915, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "H1": {
+      "footprint": "hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        -36.8, 
+        20.842211
+      ], 
+      "rotation": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "H2": {
+      "footprint": "hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        -36.8, 
+        -20.741087
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "H3": {
+      "footprint": "hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        36.8, 
+        20.842211
+      ], 
+      "rotation": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "H4": {
+      "footprint": "hole-3p1mm", 
+      "layer": "top", 
+      "location": [
+        36.8, 
+        -20.741087
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "IC1": {
+      "footprint": "14pin-ic-dip", 
+      "layer": "top", 
+      "location": [
+        20.138762, 
+        3.580365
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "IC2": {
+      "footprint": "14pin-ic-dip", 
+      "layer": "top", 
+      "location": [
+        -25.274933, 
+        3.580365
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J1": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1x4-2p54", 
+      "layer": "top", 
+      "location": [
+        25.141112, 
+        20.340079
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J2": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1x4-2p54", 
+      "layer": "top", 
+      "location": [
+        9.141111, 
+        20.340079
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J3": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1x4-2p54", 
+      "layer": "top", 
+      "location": [
+        -6.858889, 
+        20.340079
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J4": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1x4-2p54", 
+      "layer": "top", 
+      "location": [
+        -22.858889, 
+        20.340079
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J5": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1x4-2p54", 
+      "layer": "top", 
+      "location": [
+        37.421518, 
+        -10.873786
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "JMP1": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -17.561134, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "JMP2": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        12.491741, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R1": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        16.248352, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R10": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        32.298762, 
+        2.451483
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R11": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        28.298763, 
+        3.015927
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R12": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        8.543207, 
+        3.015927
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R13": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        12.543205, 
+        3.015927
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R14": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -17.679377, 
+        3.015927
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R15": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -13.679377, 
+        3.015927
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R2": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        8.735135, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": true
+        }
+      }
+    }, 
+    "R3": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -13.804525, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R4": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        23.761572, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R5": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        1.221915, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R6": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -6.291304, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R7": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -25.074354, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R8": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -35.741599, 
+        2.7889
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R9": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -28.830964, 
+        -11.996246
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T1": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        30.298763, 
+        -6.750476
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T10": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        25.054248, 
+        15.816296
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T11": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        2.42966, 
+        14.687408
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T12": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        13.741953, 
+        15.816296
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T13": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        -20.194935, 
+        15.816289
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T14": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        -8.882641, 
+        14.122964
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T2": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        30.298763, 
+        -13.043133
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T3": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        1.74751, 
+        7.869556
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T4": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        1.74751, 
+        -1.106691
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T5": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        -6.883677, 
+        7.869556
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T6": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        -6.883677, 
+        -1.106032
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T7": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        -34.306046, 
+        -12.479351
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T8": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        -34.306047, 
+        -5.622246
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T9": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        33.12098, 
+        11.300739
+      ], 
+      "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }
+  }, 
+  "config": {
+    "name": "mostap", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "A", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.4, 
+      "outline": 0.25, 
+      "pad": 0.3, 
+      "route": 0.25
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.05, 
+      "path-scale": 1.05, 
+      "rect-buffer": 0.05
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        54.202448, 
+        -5.7066103
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: MOSTAP\nRevision: A\nDescription: Touch Activated Programmer, MOS version\nLicense: MIT\nCompany: Boldport Limited\nDesigner: Saar Drimer, saar@boldport.com"
+    }, 
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        57.36651, 
+        -18.938609
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: none\nSoldermask: top (transparent), bottom (transparent)\nSurface finish: none"
+    }, 
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.2mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.2mm", 
+      "location": [
+        53.556525, 
+        -29.712052
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      41.83302, 
+      5.6233097
+    ]
+  }, 
+  "files": {
+    "routing-data": "mostap_routing.json", 
+    "routing-svg": "mostap.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "outline": {
+    "measurements": {
+      "font": "UbuntuMono-R-webfont", 
+      "scale": 0.0008
+    }, 
+    "shape": {
+      "height": 48, 
+      "radii": {
+        "bl": 2.5, 
+        "br": 2.5, 
+        "tl": 2.5, 
+        "tr": 2.5
+      }, 
+      "type": "rect", 
+      "width": 80
+    }
+  }, 
+  "physical": {
+    "stackup": [
+      "top", 
+      "bottom"
+    ]
+  }, 
+  "shapes": {
+    "BP-LOGO": {
+      "footprint": "boldport-logo-b-anti", 
+      "layer": "top", 
+      "location": [
+        -27.304624, 
+        15.726619
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "EK-LOGO": {
+      "footprint": "old-elektor-logo-anti", 
+      "layer": "top", 
+      "location": [
+        36.976092, 
+        4.177778
+      ], 
+      "rotate": 90, 
+      "show": true
+    }, 
+    "SMPADS": {
+      "footprint": "soldermask", 
+      "layer": "top", 
+      "location": [
+        -0.564444, 
+        -20.404451
+      ], 
+      "rotate": 0, 
+      "show": true
+    }
+  }
+}
