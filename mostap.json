@@ -4,8 +4,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -15.228444, 
-        -63.201589
+        -65.923359, 
+        14.493327
       ], 
       "rotate": 90, 
       "show": true, 
@@ -19,8 +19,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -80.800027, 
-        32.972133
+        -31.981826, 
+        4.914583
       ], 
       "rotate": 90, 
       "show": true, 
@@ -49,8 +49,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        34.016238, 
-        -16.317679
+        35.629167, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -64,8 +64,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        10.776488, 
-        -16.317679
+        12.956061, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -79,8 +79,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        14.096449, 
-        -16.317679
+        16.195076, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -94,8 +94,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -12.46326, 
-        -16.317679
+        -9.717045, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -124,8 +124,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -9.143295, 
-        -16.317679
+        -6.478033, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -199,8 +199,8 @@
       "footprint": "14pin-ic-dip", 
       "layer": "top", 
       "location": [
-        19.609604, 
-        1.463698
+        22, 
+        8.733334
       ], 
       "rotate": 180, 
       "show": true, 
@@ -214,8 +214,8 @@
       "footprint": "14pin-ic-dip", 
       "layer": "top", 
       "location": [
-        -25.13534, 
-        1.463698
+        -22, 
+        8.733334
       ], 
       "rotate": 180, 
       "show": true, 
@@ -229,8 +229,8 @@
       "footprint": "14pin-ic-dip", 
       "layer": "top", 
       "location": [
-        -2.762868, 
-        1.463698
+        0, 
+        8.733334
       ], 
       "rotate": 180, 
       "show": true, 
@@ -249,8 +249,8 @@
       "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        21.651443, 
-        18.470442
+        22.51585, 
+        35.148408
       ], 
       "rotate": 0, 
       "show": true, 
@@ -269,8 +269,8 @@
       "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        5.651436, 
-        18.470442
+        6.515843, 
+        35.148408
       ], 
       "rotate": 0, 
       "show": true, 
@@ -289,8 +289,8 @@
       "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        -10.348564, 
-        18.470442
+        -9.484157, 
+        35.148408
       ], 
       "rotate": 0, 
       "show": true, 
@@ -309,8 +309,8 @@
       "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        -24.263183, 
-        18.758078
+        -23.398776, 
+        35.436044
       ], 
       "rotate": 0, 
       "show": true, 
@@ -329,10 +329,45 @@
       "footprint": "1x4-2p54", 
       "layer": "top", 
       "location": [
-        37.95047, 
-        -3.246668
+        35.629167, 
+        4.233333
       ], 
       "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J6": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "1x4-2p54", 
+      "layer": "top", 
+      "location": [
+        -35.629167, 
+        4.233333
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J9": {
+      "footprint": "1x16-2p54mm-header-stag", 
+      "layer": "top", 
+      "location": [
+        0, 
+        20.949995
+      ], 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -349,8 +384,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        0.816597, 
-        -16.317679
+        3.239016, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -364,8 +399,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        24.056343, 
-        -16.317679
+        25.912122, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -384,8 +419,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -22.423153, 
-        -16.317679
+        -16.195077, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -399,8 +434,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        18.533802, 
-        -59.88285
+        -32.390151, 
+        -8.055635
       ], 
       "rotate": 90, 
       "show": true, 
@@ -419,8 +454,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -32.383044, 
-        -16.317679
+        -25.912122, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -454,8 +489,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -19.103189, 
-        -16.317679
+        -23.993012, 
+        -37.890428
       ], 
       "rotate": 90, 
       "show": true, 
@@ -484,8 +519,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        30.696274, 
-        -16.317679
+        32.390153, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -499,8 +534,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -64.241367, 
-        -4.092251
+        -35.629167, 
+        -7.993956
       ], 
       "rotate": 90, 
       "show": true, 
@@ -514,8 +549,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -68.241365, 
-        -3.527807
+        -29.351928, 
+        4.978926
       ], 
       "rotate": 90, 
       "show": true, 
@@ -529,8 +564,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -25.743117, 
-        -16.317679
+        -19.434092, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -544,8 +579,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -29.06308, 
-        -16.317679
+        -22.673105, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -559,8 +594,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -76.035736, 
-        15.096667
+        -61.90318, 
+        14.373235
       ], 
       "rotate": 90, 
       "show": true, 
@@ -574,8 +609,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -35.703008, 
-        -16.317679
+        -29.151136, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -589,8 +624,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        27.376309, 
-        -16.317679
+        29.151141, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -604,8 +639,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        4.136561, 
-        -16.317679
+        6.47803, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -619,8 +654,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -5.823331, 
-        -16.317679
+        -3.239015, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -634,8 +669,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -2.503367, 
-        -16.317679
+        2e-06, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -649,8 +684,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        7.456524, 
-        -16.317679
+        9.717049, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -664,8 +699,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        20.736379, 
-        -16.317679
+        22.673106, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -679,8 +714,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -15.783226, 
-        -16.317679
+        -12.95606, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -694,8 +729,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        17.416416, 
-        -16.317679
+        19.434088, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -709,8 +744,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        7.973571, 
-        -3.896668
+        12.109193, 
+        3.295939
       ], 
       "rotate": 180, 
       "show": true, 
@@ -799,8 +834,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        8.227808, 
-        9.350532
+        12.057816, 
+        12.857795
       ], 
       "rotate": 180, 
       "show": true, 
@@ -829,8 +864,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -27.413726, 
-        49.948816
+        -30.803527, 
+        16.005833
       ], 
       "rotate": 180, 
       "show": true, 
@@ -859,8 +894,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        31.169838, 
-        2.104077
+        33.579641, 
+        15.013464
       ], 
       "rotate": 180, 
       "show": true, 
@@ -874,8 +909,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -15.202388, 
-        -4.944477
+        -11.066765, 
+        2.248129
       ], 
       "rotate": 0, 
       "show": true, 
@@ -889,8 +924,8 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -14.210873, 
-        9.08212
+        -10.039295, 
+        11.816359
       ], 
       "rotate": 180, 
       "show": true, 
