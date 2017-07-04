@@ -136,27 +136,12 @@
     {
       "shapes":
       [
-        {
-          "type": "path",
-          "value": "m -28.170209,-19.058593 0.855237,0.445673 -0.855237,0.445672 0,-0.891345",
-          "style": "stroke",
-          "rotate": -90,
-          "location": [13.97, -2]
-        }
       ]
     },
     "assembly":
     {
       "shapes":
       [
-        {
-          "type": "rect",
-	  "layers": ["top"],
-          "width": 5,
-	  "style": "stroke",
-          "height": 5,
-          "offset": [0, 0]
-        }
       ]
     }
   },
@@ -166,18 +151,28 @@
     {
       "shapes":
       [
-        {
-          "type": "circle",
-          "layers": ["top", "bottom"],
-          "diameter": 1.7,
-          "location": [0, 0] 
-        }
+	{
+	  "layers": ["top"],
+	  "type": "circle",
+	  "outline": 0,
+	  "diameter": 1.5,
+          "soldermask": {
+	    "type": "circle",
+	    "outline": 0,
+	    "diameter": 1.4
+          } 
+	},
+	{
+	  "layers": ["bottom"],
+	  "type": "circle",
+	  "outline": 0,
+	  "diameter": 1.9 
+	}
       ],
       "drills":
       [
         {
-          "diameter": 1,
-          "location": [0, 0]
+          "diameter": 1
         }
       ]
     },
