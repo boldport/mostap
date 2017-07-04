@@ -34,8 +34,23 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        3.554598, 
-        -62.38803
+        55.215615, 
+        -10.218538
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "C5": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        31.452659, 
+        4.914583
       ], 
       "rotate": 90, 
       "show": true, 
@@ -109,8 +124,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        2.654446, 
-        -61.390554
+        54.315463, 
+        -9.221062
       ], 
       "rotate": 90, 
       "show": true, 
@@ -233,86 +248,6 @@
         8.733334
       ], 
       "rotate": 180, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "J1": {
-      "assembly": {
-        "refdef": {
-          "show": true
-        }
-      }, 
-      "footprint": "1x4-2p54", 
-      "layer": "top", 
-      "location": [
-        22.51585, 
-        35.148408
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "J2": {
-      "assembly": {
-        "refdef": {
-          "show": true
-        }
-      }, 
-      "footprint": "1x4-2p54", 
-      "layer": "top", 
-      "location": [
-        6.515843, 
-        35.148408
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "J3": {
-      "assembly": {
-        "refdef": {
-          "show": true
-        }
-      }, 
-      "footprint": "1x4-2p54", 
-      "layer": "top", 
-      "location": [
-        -9.484157, 
-        35.148408
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "J4": {
-      "assembly": {
-        "refdef": {
-          "show": true
-        }
-      }, 
-      "footprint": "1x4-2p54", 
-      "layer": "top", 
-      "location": [
-        -23.398776, 
-        35.436044
-      ], 
-      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -469,8 +404,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        28.533802, 
-        -59.88285
+        58.737192, 
+        -9.442172
       ], 
       "rotate": 90, 
       "show": true, 
@@ -489,8 +424,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -23.993012, 
-        -37.890428
+        50.956141, 
+        -9.517547
       ], 
       "rotate": 90, 
       "show": true, 
@@ -504,8 +439,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        38.533802, 
-        -59.88285
+        68.737192, 
+        -9.442172
       ], 
       "rotate": 90, 
       "show": true, 
@@ -924,7 +859,7 @@
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -10.039295, 
+        -11.626796, 
         11.816359
       ], 
       "rotate": 180, 
@@ -1135,32 +1070,53 @@
     ]
   }, 
   "shapes": {
-    "BP-LOGO": {
-      "footprint": "boldport-logo-b-anti", 
+    "BLOBS": {
+      "footprint": "blob-opening", 
       "layer": "top", 
       "location": [
-        -149.01296, 
-        15.726619
+        -31.771942, 
+        -1.666604
       ], 
       "rotate": 0, 
       "show": true
     }, 
-    "EK-LOGO": {
-      "footprint": "old-elektor-logo-anti", 
+    "BP-LOGO": {
+      "footprint": "boldport-logo-b", 
       "layer": "top", 
       "location": [
-        -56.831489, 
-        17.337155
+        -36.022682, 
+        18.919776
       ], 
-      "rotate": 90, 
+      "rotate": 0, 
+      "scale": 0.7, 
+      "show": true
+    }, 
+    "EK-LOGO": {
+      "footprint": "old-elektor-logo-sm", 
+      "layer": "top", 
+      "location": [
+        28.685906, 
+        21.366774
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
+    "MOSTAP": {
+      "footprint": "mostap", 
+      "layer": "bottom", 
+      "location": [
+        25.544813, 
+        21.123606
+      ], 
+      "rotate": 0, 
       "show": true
     }, 
     "SMPADS": {
       "footprint": "soldermask", 
       "layer": "top", 
       "location": [
-        -122.27278, 
-        -20.404451
+        1.124762, 
+        -17.86031
       ], 
       "rotate": 0, 
       "show": true
