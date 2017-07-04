@@ -4,8 +4,8 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -65.923359, 
-        14.493327
+        31.452659, 
+        4.914583
       ], 
       "rotate": 90, 
       "show": true, 
@@ -30,112 +30,7 @@
         }
       }
     }, 
-    "C3": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        55.215615, 
-        -10.218538
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "C5": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        31.452659, 
-        4.914583
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
     "D1": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        35.629167, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "D2": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        12.956061, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": true
-        }
-      }
-    }, 
-    "D3": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        16.195076, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "D4": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        -9.717045, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "D5": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        54.315463, 
-        -9.221062
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": true
-        }
-      }
-    }, 
-    "D6": {
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
@@ -150,14 +45,14 @@
         }
       }
     }, 
-    "H1": {
-      "footprint": "hole-3p1mm", 
+    "D2": {
+      "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -158.50834, 
-        20.842211
+        -9.717045, 
+        -8.066735
       ], 
-      "rotation": 0, 
+      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -165,14 +60,14 @@
         }
       }
     }, 
-    "H2": {
-      "footprint": "hole-3p1mm", 
+    "D3": {
+      "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -158.50834, 
-        -20.741087
+        12.956061, 
+        -8.066735
       ], 
-      "rotate": 0, 
+      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -180,14 +75,14 @@
         }
       }
     }, 
-    "H3": {
-      "footprint": "hole-3p1mm", 
+    "D4": {
+      "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -84.908336, 
-        20.842211
+        16.195076, 
+        -8.066735
       ], 
-      "rotation": 0, 
+      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -195,14 +90,14 @@
         }
       }
     }, 
-    "H4": {
-      "footprint": "hole-3p1mm", 
+    "D5": {
+      "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -84.908336, 
-        -20.741087
+        35.629167, 
+        -8.066735
       ], 
-      "rotate": 0, 
+      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -214,7 +109,7 @@
       "footprint": "14pin-ic-dip", 
       "layer": "top", 
       "location": [
-        22, 
+        0, 
         8.733334
       ], 
       "rotate": 180, 
@@ -244,7 +139,7 @@
       "footprint": "14pin-ic-dip", 
       "layer": "top", 
       "location": [
-        0, 
+        22, 
         8.733334
       ], 
       "rotate": 180, 
@@ -255,7 +150,22 @@
         }
       }
     }, 
-    "J5": {
+    "J1": {
+      "footprint": "1x16-2p54mm-header-stag", 
+      "layer": "top", 
+      "location": [
+        0, 
+        20.949995
+      ], 
+      "rotate": 0, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "J2": {
       "assembly": {
         "refdef": {
           "show": true
@@ -275,7 +185,7 @@
         }
       }
     }, 
-    "J6": {
+    "J3": {
       "assembly": {
         "refdef": {
           "show": true
@@ -295,32 +205,12 @@
         }
       }
     }, 
-    "J9": {
-      "footprint": "1x16-2p54mm-header-stag", 
-      "layer": "top", 
-      "location": [
-        0, 
-        20.949995
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
     "JMP1": {
-      "assembly": {
-        "refdef": {
-          "show": true
-        }
-      }, 
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        3.239016, 
-        -8.066735
+        -35.629167, 
+        -7.993956
       ], 
       "rotate": 90, 
       "show": true, 
@@ -331,41 +221,6 @@
       }
     }, 
     "JMP2": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        25.912122, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "JMP3": {
-      "assembly": {
-        "refdef": {
-          "show": true
-        }
-      }, 
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        -16.195077, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "JMP4": {
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
@@ -380,7 +235,7 @@
         }
       }
     }, 
-    "JMP5": {
+    "JMP3": {
       "assembly": {
         "refdef": {
           "show": true
@@ -400,22 +255,7 @@
         }
       }
     }, 
-    "JMP6": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        58.737192, 
-        -9.442172
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "JMP7": {
+    "JMP4": {
       "assembly": {
         "refdef": {
           "show": true
@@ -424,37 +264,7 @@
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        50.956141, 
-        -9.517547
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "JMP8": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        68.737192, 
-        -9.442172
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R1": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        32.390153, 
+        -16.195077, 
         -8.066735
       ], 
       "rotate": 90, 
@@ -465,12 +275,12 @@
         }
       }
     }, 
-    "R10": {
+    "JMP5": {
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
-        -35.629167, 
-        -7.993956
+        25.912122, 
+        -8.066735
       ], 
       "rotate": 90, 
       "show": true, 
@@ -480,7 +290,27 @@
         }
       }
     }, 
-    "R11": {
+    "JMP6": {
+      "assembly": {
+        "refdef": {
+          "show": true
+        }
+      }, 
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        3.239016, 
+        -8.066735
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R1": {
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
@@ -495,67 +325,7 @@
         }
       }
     }, 
-    "R12": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        -19.434092, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R13": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        -22.673105, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R14": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        -61.90318, 
-        14.373235
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R15": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        -29.151136, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R2": {
+    "R10": {
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
@@ -566,11 +336,11 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "show": true
+          "show": false
         }
       }
     }, 
-    "R3": {
+    "R11": {
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
@@ -585,67 +355,7 @@
         }
       }
     }, 
-    "R4": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        -3.239015, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R5": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        2e-06, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R6": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        9.717049, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R7": {
-      "footprint": "TH_7P62_0805", 
-      "layer": "top", 
-      "location": [
-        22.673106, 
-        -8.066735
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "R8": {
+    "R12": {
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
@@ -660,7 +370,7 @@
         }
       }
     }, 
-    "R9": {
+    "R13": {
       "footprint": "TH_7P62_0805", 
       "layer": "top", 
       "location": [
@@ -675,127 +385,127 @@
         }
       }
     }, 
+    "R2": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -29.151136, 
+        -8.066735
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R3": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -19.434092, 
+        -8.066735
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R4": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -22.673105, 
+        -8.066735
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R5": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        -3.239015, 
+        -8.066735
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R6": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        2e-06, 
+        -8.066735
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R7": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        9.717049, 
+        -8.066735
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R8": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        22.673106, 
+        -8.066735
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "R9": {
+      "footprint": "TH_7P62_0805", 
+      "layer": "top", 
+      "location": [
+        32.390153, 
+        -8.066735
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
     "T1": {
-      "footprint": "bjt-to92-space", 
-      "layer": "top", 
-      "location": [
-        12.109193, 
-        3.295939
-      ], 
-      "rotate": 180, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "T10": {
-      "footprint": "bjt-to92-space", 
-      "layer": "top", 
-      "location": [
-        -96.654087, 
-        15.816296
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "T11": {
-      "footprint": "bjt-to92-space", 
-      "layer": "top", 
-      "location": [
-        -119.27867, 
-        14.687408
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "T12": {
-      "footprint": "bjt-to92-space", 
-      "layer": "top", 
-      "location": [
-        -107.96638, 
-        15.816296
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "T13": {
-      "footprint": "bjt-to92-space", 
-      "layer": "top", 
-      "location": [
-        -141.90326, 
-        15.816289
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "T14": {
-      "footprint": "bjt-to92-space", 
-      "layer": "top", 
-      "location": [
-        -130.59098, 
-        14.122964
-      ], 
-      "rotate": 180, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "T2": {
-      "footprint": "bjt-to92-space", 
-      "layer": "top", 
-      "location": [
-        12.057816, 
-        12.857795
-      ], 
-      "rotate": 180, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "T3": {
-      "footprint": "bjt-to92-space", 
-      "layer": "top", 
-      "location": [
-        -27.413726, 
-        58.925063
-      ], 
-      "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "T4": {
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
@@ -810,22 +520,7 @@
         }
       }
     }, 
-    "T5": {
-      "footprint": "bjt-to92-space", 
-      "layer": "top", 
-      "location": [
-        -128.59202, 
-        7.869556
-      ], 
-      "rotate": 180, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "show": false
-        }
-      }
-    }, 
-    "T6": {
+    "T2": {
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
@@ -840,14 +535,14 @@
         }
       }
     }, 
-    "T7": {
+    "T3": {
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -11.066765, 
-        2.248129
+        12.057816, 
+        12.857795
       ], 
-      "rotate": 0, 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -855,7 +550,7 @@
         }
       }
     }, 
-    "T8": {
+    "T4": {
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
@@ -870,14 +565,29 @@
         }
       }
     }, 
-    "T9": {
+    "T5": {
       "footprint": "bjt-to92-space", 
       "layer": "top", 
       "location": [
-        -88.587355, 
-        11.300739
+        12.109193, 
+        3.295939
       ], 
       "rotate": 180, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "T6": {
+      "footprint": "bjt-to92-space", 
+      "layer": "top", 
+      "location": [
+        -11.066765, 
+        2.248129
+      ], 
+      "rotate": 0, 
       "show": true, 
       "silkscreen": {
         "refdef": {
