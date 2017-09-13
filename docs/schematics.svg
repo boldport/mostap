@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="1394.4198"
-     inkscape:cy="630.91484"
+     inkscape:zoom="0.35"
+     inkscape:cx="1702.265"
+     inkscape:cy="1014.9294"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3946,5 +3946,17 @@
        cx="-88.596382"
        cy="1243.3265"
        r="8.5714283" />
+    <text
+       id="text5131"
+       y="2544.7725"
+       x="-1145.3901"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="rotate(-90)"><tspan
+         style="font-size:30px;line-height:1"
+         id="tspan5129"
+         y="2544.7725"
+         x="-1145.3901"
+         sodipodi:role="line">boldport.com/mostap</tspan></text>
   </g>
 </svg>
